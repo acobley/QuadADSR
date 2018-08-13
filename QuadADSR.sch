@@ -29256,7 +29256,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <classes>
 <class number="0" name="default" width="0" drill="0">
 </class>
-<class number="1" name="Power" width="0.8" drill="0">
+<class number="1" name="Power" width="0.5" drill="0">
 </class>
 </classes>
 <parts>
