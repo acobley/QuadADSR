@@ -29386,6 +29386,7 @@ In this library the device names are the same as the pin names of the symbols, t
 </parts>
 <sheets>
 <sheet>
+<description>Main</description>
 <plain>
 </plain>
 <instances>
@@ -30203,6 +30204,7 @@ In this library the device names are the same as the pin names of the symbols, t
 </nets>
 </sheet>
 <sheet>
+<description>Analog out</description>
 <plain>
 </plain>
 <instances>
@@ -30534,6 +30536,7 @@ In this library the device names are the same as the pin names of the symbols, t
 </nets>
 </sheet>
 <sheet>
+<description>Triggers</description>
 <plain>
 </plain>
 <instances>
